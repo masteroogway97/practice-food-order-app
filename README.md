@@ -1,4 +1,5 @@
 # practice-food-order-app
  food ordering app created using ReactJS
 
-# missed yesterday's commit T_T
+# missed commits
+- 28/09/2022
